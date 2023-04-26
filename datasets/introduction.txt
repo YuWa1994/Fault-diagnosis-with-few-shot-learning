@@ -1,0 +1,3 @@
+DataA-D are constructed from CWRU dataset
+DataE-F are constructed from KAt dataset
+Detailed introduction of the used datasets can be found in https://papers.ssrn.com/abstract=4278481
