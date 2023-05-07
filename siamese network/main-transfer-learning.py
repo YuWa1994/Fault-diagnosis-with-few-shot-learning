@@ -51,7 +51,7 @@ def get_sample_data(X, Y, num=10, classes=None):
     return np.array(Xs), np.array(Ys)
 
 # ---------------------------------------------
-#  transfer learning with relation network
+#  transfer learning with siamese network
 # ---------------------------------------------
 datasets = ['dataA', 'dataB', 'dataC', 'dataD', 'dataE', 'dataF']
 datapath = 'D:/YW/Project/Few-shot & zero-shot learning/datasets/'
